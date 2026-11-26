@@ -139,7 +139,9 @@ Fill in after training and evaluation.
 
 ## 👥 Authors
 
-Add team members and supervisor here.
+Mudassar Ahmad-BSDS-005 
+Muhammad Abdullah-BSDS-016
+Nouman Ghazi-BSAI-026
 
 ## 📄 License
 
